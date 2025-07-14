@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b7f59d1-ba49-4404-9e07-b0f9e45f8b18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/chainofresponsibilitypattern/Approver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/chainofresponsibilitypattern/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/chainofresponsibilitypattern/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/chainofresponsibilitypattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/commandpattern/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/commandpattern/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/commandpattern/TurnOffLightCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/commandpattern/TurnOnLightCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/commandpattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/interpreterpattern/AddExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/interpreterpattern/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/interpreterpattern/MultiplyExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/interpreterpattern/NumberExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/interpreterpattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/iteratorpattern/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/iteratorpattern/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/iteratorpattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/mediatorpattern/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/mediatorpattern/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/mediatorpattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/mementopattern/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/mementopattern/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/mementopattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/observerpattern/ConcreteObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/observerpattern/ConcreteSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/observerpattern/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/observerpattern/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/observerpattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/statepattern/DoorClosedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/statepattern/DoorOpenedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/statepattern/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/statepattern/ElevatorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/statepattern/MovingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/statepattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/strategypattern/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/strategypattern/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/strategypattern/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/strategypattern/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/strategypattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/templatemethodpattern/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/templatemethodpattern/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/templatemethodpattern/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/templatemethodpattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/visitorpattern/ConcreteVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/visitorpattern/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/visitorpattern/ElementA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/visitorpattern/ElementB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/visitorpattern/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/behavioralpatterns/visitorpattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/abstractfactorypattern/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/abstractfactorypattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/abstractfactorypattern/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/abstractfactorypattern/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/abstractfactorypattern/MacGUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/abstractfactorypattern/MacTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/abstractfactorypattern/TextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/abstractfactorypattern/WindowTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/abstractfactorypattern/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/abstractfactorypattern/WindowsGUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/builderpattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/builderpattern/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/builderpattern/PizzaBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/factorypattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/factorypattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/factorypattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/factorypattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/factorypattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/prototypepattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/prototypepattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/prototypepattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/prototypepattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/singletonpattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/singletonpattern/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/singletonpattern/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/creativestructure/singletonpattern/Singleton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/adapterpattern/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/adapterpattern/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/adapterpattern/FlacPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/adapterpattern/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/adapterpattern/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/adapterpattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/bridgepattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/bridgepattern/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/bridgepattern/GreenColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/bridgepattern/RedColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/bridgepattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/bridgepattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/bridgepattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/compositepattern/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/compositepattern/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/compositepattern/FileSystemComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/compositepattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/decoratorpattern/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/decoratorpattern/CoffeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/decoratorpattern/MileDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/decoratorpattern/SimpleCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/decoratorpattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/facadepattern/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/facadepattern/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/facadepattern/ComputerFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/facadepattern/HardDisk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/facadepattern/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/facadepattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/flyweightpattern/ChessPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/flyweightpattern/ChessPieceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/flyweightpattern/ConcreteChessPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/flyweightpattern/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/proxypattern/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/proxypattern/ProxyImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/proxypattern/RealImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hosiky/structuraltype/proxypattern/client.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2zasitDg25Q5iRk67WZiz4l5ScF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.behavioralpatterns.chainofresponsibilitypattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.behavioralpatterns.commandpattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.behavioralpatterns.interpreterpattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.behavioralpatterns.iteratorpattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.behavioralpatterns.mediatorpattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.behavioralpatterns.observerpattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.behavioralpatterns.statepattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.behavioralpatterns.templatemethodpattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.creativestructure.builderpattern.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.creativestructure.prototypepattern.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.creativestructure.singletonpattern.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.structuraltype.bridgepattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.structuraltype.compositepattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.structuraltype.decoratorpattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.structuraltype.facadepattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hosiky.structuraltype.flyweightpattern.client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.com.hosiky.behavioralpatterns.chainofresponsibilitypattern.client">
+    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hosiky.behavioralpatterns.mementopattern.client" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hosiky.behavioralpatterns.mementopattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hosiky.behavioralpatterns.chainofresponsibilitypattern.client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hosiky.behavioralpatterns.chainofresponsibilitypattern.client" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hosiky.behavioralpatterns.chainofresponsibilitypattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hosiky.behavioralpatterns.interpreterpattern.client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hosiky.behavioralpatterns.interpreterpattern.client" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hosiky.behavioralpatterns.interpreterpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hosiky.behavioralpatterns.mediatorpattern.client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hosiky.behavioralpatterns.mediatorpattern.client" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hosiky.behavioralpatterns.mediatorpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hosiky.behavioralpatterns.statepattern.client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hosiky.behavioralpatterns.statepattern.client" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hosiky.behavioralpatterns.statepattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.hosiky.behavioralpatterns.chainofresponsibilitypattern.client" />
+        <item itemvalue="Application.com.hosiky.behavioralpatterns.statepattern.client" />
+        <item itemvalue="Application.com.hosiky.behavioralpatterns.interpreterpattern.client" />
+        <item itemvalue="Application.client" />
+        <item itemvalue="Application.com.hosiky.behavioralpatterns.mediatorpattern.client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b7f59d1-ba49-4404-9e07-b0f9e45f8b18" name="Changes" comment="" />
+      <created>1751980650119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751980650119</updated>
+      <workItem from="1751980652879" duration="6128000" />
+      <workItem from="1752037893915" duration="6672000" />
+      <workItem from="1752108871768" duration="18269000" />
+      <workItem from="1752203057476" duration="17387000" />
+      <workItem from="1752302399501" duration="334000" />
+      <workItem from="1752459299440" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
